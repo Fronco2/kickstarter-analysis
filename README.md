@@ -22,7 +22,7 @@ Launch date discovery revealed an interesting trend of sucessful campaigns twoar
 ![GB Campaign Pleges for Musicals](https://user-images.githubusercontent.com/83895120/122992979-5cb18a80-d36c-11eb-98db-d47bb2e565ea.png)
 
 ### Challenges and Difficulties Encounted
-* The data contained a specific outlier with unclear origin making some of the data.
+* The data contained a specific outlier with unclear origin skewed some of the analysis.
 * Data on minimum pledge request was not available to analyze.
 
 ## Results
@@ -36,5 +36,3 @@ Launch date discovery revealed an interesting trend of sucessful campaigns twoar
 - Out of 912 campaigns for theater in the US, about 60 percent were successful or still live.  
 
 - The data concerning live campaigns contains a number of already successful campaigns despite being ongoing.  It could be examined for any data differences compared to the ones aready considered successful in meeting the funding goals.
-
-- What are some other possible tables and/or graphs that we could create?
